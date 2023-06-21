@@ -1,4 +1,16 @@
-# PFGM++: Unlocking the Potential of Physics-Inspired Generative Models
+# Experiments with PGMPP 
+
+We perform experiments with the PFGMPP model. To create custom datasets need to use custom zip files for datasets.
+
+
+
+
+
+
+#---------------------------------- DIVIDNG LINE -----------------------------------------------------------
+
+
+## PFGM++: Unlocking the Potential of Physics-Inspired Generative Models
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pfgm-unlocking-the-potential-of-physics/image-generation-on-cifar-10)](https://paperswithcode.com/sota/image-generation-on-cifar-10?p=pfgm-unlocking-the-potential-of-physics)
 
